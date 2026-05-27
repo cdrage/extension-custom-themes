@@ -927,7 +927,7 @@
     "watch": "tsc --watch"
   },
   "devDependencies": {
-    "@podman-desktop/api": "1.22.0",
+    "@podman-desktop/api": "1.27.2",
     "@types/node": "^22",
     "typescript": "5.9.2"
   },
