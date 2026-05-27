@@ -16,6 +16,7 @@
         "id": "zenburn",
         "name": "Zenburn",
         "parent": "dark",
+        "_terminalNote": "Terminal colors (terminalBackground, terminalForeground, etc.) are intentionally omitted. The Monaco editor does not yet read theme terminal colors, so setting them causes a mismatch between the terminal and editor views. Omitting them lets both inherit the default dark theme consistently.",
         "colors": {
           "defaultText": "#dcdccc",
           "defaultTextLink": "#8cd0d3",
@@ -128,11 +129,6 @@
           "buttonFocusRing": "#f0dfaf",
           "toastInfoBg": "#8cd0d3",
           "toastInfoBarBg": "#5f7f5f",
-          "terminalBackground": "#1e1e1e",
-          "terminalForeground": "#dcdccc",
-          "terminalCursor": "#dcdccc",
-          "terminalSelectionBackground": "#4f4f4f",
-          "terminalSelectionForeground": "#dcdccc",
           "inputToggleOffBg": "#6f6f6f"
         }
       },
@@ -140,6 +136,7 @@
         "id": "dracula",
         "name": "Dracula",
         "parent": "dark",
+        "_terminalNote": "Terminal colors (terminalBackground, terminalForeground, etc.) are intentionally omitted. The Monaco editor does not yet read theme terminal colors, so setting them causes a mismatch between the terminal and editor views. Omitting them lets both inherit the default dark theme consistently.",
         "colors": {
           "defaultText": "#f8f8f2",
           "defaultTextLink": "#8be9fd",
@@ -259,27 +256,6 @@
           "buttonFocusRing": "#bd93f9",
           "toastInfoBg": "#8be9fd",
           "toastInfoBarBg": "#6272a4",
-          "terminalBackground": "#282a36",
-          "terminalForeground": "#f8f8f2",
-          "terminalCursor": "#f8f8f2",
-          "terminalSelectionBackground": "#44475a",
-          "terminalSelectionForeground": "#f8f8f2",
-          "terminalAnsiBlack": "#21222c",
-          "terminalAnsiRed": "#ff5555",
-          "terminalAnsiGreen": "#50fa7b",
-          "terminalAnsiYellow": "#f1fa8c",
-          "terminalAnsiBlue": "#bd93f9",
-          "terminalAnsiMagenta": "#ff79c6",
-          "terminalAnsiCyan": "#8be9fd",
-          "terminalAnsiWhite": "#f8f8f2",
-          "terminalAnsiBrightBlack": "#6272a4",
-          "terminalAnsiBrightRed": "#ff6e6e",
-          "terminalAnsiBrightGreen": "#69ff94",
-          "terminalAnsiBrightYellow": "#ffffa5",
-          "terminalAnsiBrightBlue": "#d6acff",
-          "terminalAnsiBrightMagenta": "#ff92df",
-          "terminalAnsiBrightCyan": "#a4ffff",
-          "terminalAnsiBrightWhite": "#ffffff",
           "inputToggleOffBg": "#6272a4"
         }
       },
@@ -287,6 +263,7 @@
         "id": "matrix",
         "name": "Matrix",
         "parent": "dark",
+        "_terminalNote": "Terminal colors (terminalBackground, terminalForeground, etc.) are intentionally omitted. The Monaco editor does not yet read theme terminal colors, so setting them causes a mismatch between the terminal and editor views. Omitting them lets both inherit the default dark theme consistently.",
         "colors": {
           "defaultText": "#00ff41",
           "defaultTextLink": "#00ff41",
@@ -408,19 +385,6 @@
           "buttonFocusRing": "#00ff41",
           "toastInfoBg": "#00ff41",
           "toastInfoBarBg": "#003b00",
-          "terminalBackground": "#000000",
-          "terminalForeground": "#00ff41",
-          "terminalCursor": "#00ff41",
-          "terminalSelectionBackground": "#003b00",
-          "terminalSelectionForeground": "#00ff41",
-          "terminalAnsiBlack": "#000000",
-          "terminalAnsiRed": "#ff0000",
-          "terminalAnsiGreen": "#00ff41",
-          "terminalAnsiYellow": "#ffff00",
-          "terminalAnsiBlue": "#00b82e",
-          "terminalAnsiMagenta": "#00ff41",
-          "terminalAnsiCyan": "#00b82e",
-          "terminalAnsiWhite": "#00ff41",
           "inputToggleOffBg": "#003b00"
         }
       },
@@ -428,6 +392,7 @@
         "id": "hellokitty",
         "name": "Hello Kitty",
         "parent": "dark",
+        "_terminalNote": "Terminal colors (terminalBackground, terminalForeground, etc.) are intentionally omitted. The Monaco editor does not yet read theme terminal colors, so setting them causes a mismatch between the terminal and editor views. Omitting them lets both inherit the default dark theme consistently.",
         "colors": {
           "defaultText": "#f5e6f0",
           "defaultTextLink": "#ff69b4",
@@ -547,23 +512,14 @@
           "tableBodyTextSubSecondary": "#ff69b4",
           "buttonFocusRing": "#ff1493",
           "toastInfoBg": "#ff69b4",
-          "toastInfoBarBg": "#5a0a3a",
-          "terminalBackground": "#120810",
-          "terminalForeground": "#f5e6f0",
-          "terminalCursor": "#f5e6f0",
-          "terminalSelectionBackground": "#3d1a30",
-          "terminalSelectionForeground": "#f5e6f0",
-          "terminalAnsiRed": "#ff4444",
-          "terminalAnsiGreen": "#50fa7b",
-          "terminalAnsiYellow": "#ffd700",
-          "terminalAnsiMagenta": "#ff69b4",
-          "terminalAnsiCyan": "#d4a0c0"
+          "toastInfoBarBg": "#5a0a3a"
         }
       },
       {
         "id": "nord",
         "name": "Nord",
         "parent": "dark",
+        "_terminalNote": "Terminal colors (terminalBackground, terminalForeground, etc.) are intentionally omitted. The Monaco editor does not yet read theme terminal colors, so setting them causes a mismatch between the terminal and editor views. Omitting them lets both inherit the default dark theme consistently.",
         "colors": {
           "defaultText": "#d8dee9",
           "defaultTextLink": "#88c0d0",
@@ -683,28 +639,7 @@
           "tableBodyTextSubSecondary": "#88c0d0",
           "buttonFocusRing": "#88c0d0",
           "toastInfoBg": "#88c0d0",
-          "toastInfoBarBg": "#434c5e",
-          "terminalBackground": "#2e3440",
-          "terminalForeground": "#d8dee9",
-          "terminalCursor": "#d8dee9",
-          "terminalSelectionBackground": "#434c5e",
-          "terminalSelectionForeground": "#d8dee9",
-          "terminalAnsiBlack": "#3b4252",
-          "terminalAnsiRed": "#bf616a",
-          "terminalAnsiGreen": "#a3be8c",
-          "terminalAnsiYellow": "#ebcb8b",
-          "terminalAnsiBlue": "#81a1c1",
-          "terminalAnsiMagenta": "#b48ead",
-          "terminalAnsiCyan": "#88c0d0",
-          "terminalAnsiWhite": "#e5e9f0",
-          "terminalAnsiBrightBlack": "#4c566a",
-          "terminalAnsiBrightRed": "#bf616a",
-          "terminalAnsiBrightGreen": "#a3be8c",
-          "terminalAnsiBrightYellow": "#ebcb8b",
-          "terminalAnsiBrightBlue": "#81a1c1",
-          "terminalAnsiBrightMagenta": "#b48ead",
-          "terminalAnsiBrightCyan": "#8fbcbb",
-          "terminalAnsiBrightWhite": "#eceff4"
+          "toastInfoBarBg": "#434c5e"
         }
       }
     ]
